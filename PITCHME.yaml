@@ -1,0 +1,8 @@
+# スライドのページ数表示の設定
+slide-number: true
+
+# コードのシンタックスハイライトの設定
+highlight : monokai
+
+# コードの行数表示
+code-line-numbers : true
